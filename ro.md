@@ -1,6 +1,6 @@
 # titulo
 
-## titulo
+## paragraph
 
 **hola a los que leen este blog!**
 
