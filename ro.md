@@ -1,6 +1,8 @@
-# titulo
+# Titulo
 
-## paragraph
+## Mi Blog
+
+### paragraph
 
 **hola a los que leen este blog! Les dejo corazones!**
 
