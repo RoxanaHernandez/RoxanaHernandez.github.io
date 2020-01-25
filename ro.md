@@ -1,6 +1,11 @@
 
 
-# title
+# Personal Blog
+
+This are my firsts lines in this blog, I will describe  each of the steps I take during this process.
+
+I started to learn ***markdown*** to do it.
+
 
 ## Mi Blog!.
 
